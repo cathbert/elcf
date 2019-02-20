@@ -1,2 +1,4 @@
 # elcf
-Church management software
+Church management software.
+
+Project started by Cartis at CCH.
